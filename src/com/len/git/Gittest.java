@@ -1,0 +1,11 @@
+package com.len.git;
+
+/**
+ * @auther Len901
+ * @time 2022-12-22-23:41
+ */
+public class Gittest {
+    public static void main(String[] args) {
+        System.out.println("hello，git!");
+    }
+}
